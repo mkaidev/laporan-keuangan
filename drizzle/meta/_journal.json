@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716891669183,
+      "tag": "0000_steady_thunderbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716893329282,
+      "tag": "0001_fancy_chimera",
+      "breakpoints": true
+    }
+  ]
+}
