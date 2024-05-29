@@ -16,7 +16,7 @@ export default function Page() {
         </div>
       </div>
       <div className="h-full bg-blue-600 hidden lg:flex items-center justify-center">
-        <Image src="/finance.svg" height={500} width={500} alt="finance" />
+        <Image src="/logo.svg" height={400} width={400} alt="Finance" />
       </div>
     </div>
   );
